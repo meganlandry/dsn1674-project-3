@@ -1,0 +1,41 @@
+html {
+	font-family: font-family: 'PT Sans', sans-serif;
+	box-sizing: inherit;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+}
+
+header img {
+	width: 100%;
+}
+
+nav {
+	background-color: #231f20;
+	text-align: center;
+	margin-top: -4px;
+}
+
+nav li {
+	display: inline-block;
+	padding: 2.5em;
+	color: #bababa;
+}
+
+
+nav ol {
+	overflow: hidden;
+	margin: auto;
+	text-align: center;
+
+}
+
+a {
+	color: #bababa;
+	text-decoration: none;
+}
