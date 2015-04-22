@@ -203,3 +203,24 @@ a {
 	width: 100%;
 	margin-top: -4px;
 }
+
+.contact {
+	width: 100%;
+}
+
+.contact_buttons {
+	color: #bababa;
+	background-color: #231f20;
+	text-align: center;
+	padding: 15px;
+	margin-top: -4px;
+}
+
+.contact_buttons p {
+	color: white;
+	background: linear-gradient(to bottom, #f33634, #cc1f1f);
+	padding: 0.3em 1em;
+	border-radius: .75em;
+	box-shadow: 0 .2em .5em 0 black;
+	margin: 30px;
+}
