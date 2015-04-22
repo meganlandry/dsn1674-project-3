@@ -161,3 +161,8 @@ a {
 .menu4 dl {
 	margin: 5;
 }
+
+.beer_pour {
+	width: 100%;
+	margin-top: -16px;
+}
