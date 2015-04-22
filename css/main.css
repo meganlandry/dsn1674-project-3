@@ -79,3 +79,32 @@ a {
 .menu1 dl {
 	margin: 5;
 }
+
+.salad {
+	width: 50%;
+	float: left;
+}
+
+.soup {
+	width: 50%;
+	float: right;
+}
+
+.salad-soup {
+	margin-top: -16px;
+}
+
+.menu2 {
+	color: #bababa;
+	background-color: #231f20;
+	text-align: center;
+	padding: 15px;
+}
+
+.menu2 p {
+	margin: 30px;
+	}
+
+.menu2 dl {
+	margin: 5;
+}
