@@ -113,3 +113,19 @@ a {
 	width: 100%;
 	margin-top: -16px;
 }
+
+.menu3 {
+	color: #bababa;
+	background-color: #231f20;
+	text-align: center;
+	padding: 15px;
+	margin-top: -4px;
+}
+
+.menu3 p {
+	margin: 30px;
+	}
+
+.menu3 dl {
+	margin: 5;
+}
