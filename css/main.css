@@ -42,4 +42,19 @@ a {
 
 .little_map {
 	width: 50%;
+	float: left;
+}
+
+.open_hours {
+	width: 50%;
+}
+
+.hours {
+	margin-left: 58%;
+	margin-top: -27%;
+	color: white;
+}
+
+dd {
+	display: inline;
 }
