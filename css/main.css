@@ -181,3 +181,15 @@ a {
 	margin-top: -318px;
 	text-align: center;
 }
+
+.map {
+	width: 100%;
+}
+
+.location {
+	color: #bababa;
+	background-color: #231f20;
+	text-align: center;
+	padding: 15px;
+	margin-top: -4px;
+}
