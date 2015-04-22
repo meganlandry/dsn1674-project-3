@@ -58,3 +58,24 @@ a {
 .pizza {
 	width: 100%;
 }
+
+.menu {
+	width: 100%;
+	margin-top: -4px;
+}
+
+.menu1 {
+	color: #bababa;
+	background-color: #231f20;
+	text-align: center;
+	padding: 15px;
+	margin-top: -4px;
+}
+
+.menu1 p {
+	margin: 30px;
+	}
+
+.menu1 dl {
+	margin: 5;
+}
