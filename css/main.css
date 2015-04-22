@@ -99,6 +99,7 @@ a {
 	background-color: #231f20;
 	text-align: center;
 	padding: 15px;
+	margin-top: 36%;
 }
 
 .menu2 p {
@@ -127,5 +128,36 @@ a {
 	}
 
 .menu3 dl {
+	margin: 5;
+}
+
+.salmon {
+	width: 100%;
+	margin-top: -16px;
+}
+
+.beer {
+	width: 100%;
+	margin-top: -4px;
+}
+
+.menu4 {
+	color: #bababa;
+	background-color: #231f20;
+	text-align: center;
+	padding: 15px;
+	margin-top: -4px;
+}
+
+.menu4 p {
+	margin: 30px;
+	}
+
+.menu4 dd {
+	color: red;
+	font-style: italic;
+}
+
+.menu4 dl {
 	margin: 5;
 }
