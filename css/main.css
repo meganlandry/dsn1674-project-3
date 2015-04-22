@@ -166,3 +166,18 @@ a {
 	width: 100%;
 	margin-top: -16px;
 }
+
+.light_wood {
+	width: 100%;
+	margin-top: -4px;
+}
+
+.light_beer dd {
+	color: blue;
+	font-style: italic;
+}
+
+.light_beer {
+	margin-top: -318px;
+	text-align: center;
+}
